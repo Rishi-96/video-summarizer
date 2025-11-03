@@ -125,6 +125,7 @@ streamlit run src/frontend.py
 
 ## 🧩 Output Example
 
+
 | Type | Example Output |
 |-------|----------------|
 | **Original Video** | 10-min tutorial |
